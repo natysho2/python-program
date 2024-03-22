@@ -1,11 +1,4 @@
 # python-program
-simple pythoin program for data analytics
-
-Sure! Below is a sample README file for a Python data analytics project hosted on GitHub:
-
-Python Data Analytics Project
-This repository contains Python code for performing data analytics tasks using various Python libraries and tools.
-
 Overview
 The project aims to demonstrate how to analyze and visualize data using Python, focusing on the following key areas:
 
